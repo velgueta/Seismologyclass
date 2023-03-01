@@ -1,0 +1,2 @@
+# Seismologyclass
+repo for homeworks
